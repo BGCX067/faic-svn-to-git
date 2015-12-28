@@ -1,0 +1,4 @@
+tiempo transcurrido: 513705
+calc 0.00299997704731778 error target 0.003
+tiempo transcurrido: 6 (2 vueltas)
+calc 5.873719821202286E-4 error target 0.003

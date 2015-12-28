@@ -1,0 +1,6 @@
+tiempo transcurrido: 176622
+calc 0.0029998969817946336 error target 0.003
+
+tiempo transcurrido: 265836 vueltas:66390
+calc 0.0029998160291719086 error target 0.003
+

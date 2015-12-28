@@ -1,0 +1,5 @@
+
+ -- En esta capa no se muestran pesos ni enlaces xq es de entrada, los --
+
+ -- valores de entrada no son afectados por pesos, se distribuyen tal como ingresan --
+Bias: 1.0

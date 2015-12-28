@@ -1,0 +1,10 @@
+
+ ---- CAPA SALIDA ----
+Neurona 0: Entrada=>1.946387272993116 || Salida: 1.946387272993116
+                     Conexion => Valor: 0.5325916319515552 || Peso: 0.30427634716033936
+                     Conexion => Valor: 0.6074776535359723 || Peso: 0.9263655543327332
+                     Conexion => Valor: 0.6126819162134216 || Peso: 0.5600297451019287
+                     Conexion => Valor: 0.6103637152919629 || Peso: 0.20662379264831543
+                     Conexion => Valor: 0.5794206281121285 || Peso: 0.7481701970100403
+                     Conexion => Valor: 1.0 || Peso: 0.31884485483169556
+Bias Capa Salida: 1.0

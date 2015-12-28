@@ -1,0 +1,16 @@
+tiempo transcurrido: 35393
+calc 0.008752088319660652 error target 0.003
+tiempo transcurrido: 39918
+calc 0.03285285908322002 error target 0.003
+tiempo transcurrido: 40150
+calc 0.2341526167760414 error target 0.003
+tiempo transcurrido: 30
+calc 0.0026768601885723132 error target 0.003
+tiempo transcurrido: 39074
+calc 0.00882947329527022 error target 0.003
+tiempo transcurrido: 2
+calc 0.0010317760936551623 error target 0.003
+tiempo transcurrido: 36942
+calc 0.01836227132681937 error target 0.003
+tiempo transcurrido: 34930
+calc 0.047491898873854715 error target 0.003
